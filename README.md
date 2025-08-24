@@ -4,7 +4,7 @@ A modern, responsive sign-in application built with Next.js 15, React 19, TypeSc
 
 ## 🌐 Live Demo
 
-**🔗 [View Live Application](https://sign-iw0sevjk3-sandaruwan2000s-projects.vercel.app/)**
+**🔗 [View Live Application](https://sign-in-jade.vercel.app/)**
 
 Experience the application live on Vercel with full functionality and responsive design.
 
